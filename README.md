@@ -1,0 +1,2 @@
+# Arima_model_Timeseries_Ganges_river_dataset
+ Using the Ganges river flow dataset which is timeseries dataset, we try to make it stationary and then run the  autoregressive integrated moving average model. To first check stationarity by checking the PACF and ACF Graphs and then preprocessing the dataset accordingly and then use various techniques like timedifferenciations to make it stationary. Calculate the Root mean squared value for performance metrics and change the timeshifts to daily to achieve maximum accuracy
